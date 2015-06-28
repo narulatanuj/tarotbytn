@@ -31,7 +31,7 @@ body {font-family:"Open Sans", Arial, Helvetica; font-size:14px; color:#333333; 
 .slide1{padding-top:15%;}
 .slide2{background-color:#202242; min-height:455px;}
 .cb{clear:both; height:1px; font-size:1px; overflow:hidden;}
-.big-logo, .logo-main, .logo-main2{background:url(../images/logo.png) no-repeat;}
+.big-logo, .logo-main, .logo-main2{background:url(../images/logo-updated.png) no-repeat;}
 .big-logo{width:353px;height:88px; text-align:center; margin:0 auto; position:relative; top:20%; background-position:left top;}
 .logo-main{background-position:left -143px; width:215px; height:51px; text-align:center; float:left; overflow:hidden; margin-top:12px;}
 .logo-main2{background-position:left -143px; width:215px; height:51px; text-align:center; float:none; overflow:hidden;}
