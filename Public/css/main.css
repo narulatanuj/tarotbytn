@@ -110,7 +110,7 @@ transform: rotate3d(0,1,0,-180deg);}
 .face-to-faceBox{float:left; width:252px;}
 .mb20{margin-bottom:20px;}
 .txt-wrap{word-wrap: break-word;}
-
+.note-txt{clear:both; margin-top:91px; display:block;}
 
 /* New Responsive Navigations*/
 .sticky {
@@ -283,6 +283,7 @@ header .wrapper{width:100%;}
 input.submt-btn{width:100%; float:none; display:block}
 }
 @media only screen and (min-width: 0px) and (max-width: 767px) {
+.note-txt{clear:both; margin-top:15px; display:block;}	
 body{background-image:none;}
 .wrapper{width:90%; margin:0 auto;}
 header .wrapper{width:100%;}
